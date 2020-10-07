@@ -197,12 +197,12 @@ BUILDER_CONFIG_ITEMS = OrderedDict([
             "label_object_name": "WalletAddressLabel",
             "input_object_name": "WalletAddressTextCtrl",
             "regex": re.compile("^([A-Za-z0-9]{26,35})?$"),
-            "example": "12mdKVNfAhLbRDLtRWQFhQgydgU6bUMjay",
+            "example": "387T8kY3pvCNJLcPXhf2gtcQCLamxTFbxc",
             "input_requirement": "A bitcoin wallet address as a series of alphanumeric" 
                                  " characters (26-35 characters in length",
             "config_area": "Ransomware Settings",
             "validate": True,
-            "default": "12mdKVNfAhLbRDLtRWQFhQgydgU6bUMjay"
+            "default": "387T8kY3pvCNJLcPXhf2gtcQCLamxTFbxc"
             }
     ),
     (
